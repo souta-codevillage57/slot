@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.slot-wrap{
+  display: flex;
+  justify-content: space-between;
+  width: 80px;
+  height: 35px;
+  line-height: 35px;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+.center{
+  background-color: aqua;
+}
